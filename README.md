@@ -40,7 +40,7 @@
 
 |정상실행|잘못된 입력시 컴퓨터 턴 전환|게임 종료|
 | --- | --- | --- |
-![](https://github.com/devjoon/ios-rock-paper-scissors/assets/101351216/9e4a5d57-0d66-4d42-878e-9c4a234fbe7b))|![](https://github.com/devjoon/ios-rock-paper-scissors/assets/101351216/93e5c8cc-7f7e-4182-8d8f-bec41ced6d42)|![](https://github.com/devjoon/ios-rock-paper-scissors/assets/101351216/5d19a7c0-a1c5-441c-a0bf-a06451a9fe00)|
+![](https://github.com/devjoon/ios-rock-paper-scissors/assets/101351216/9e4a5d57-0d66-4d42-878e-9c4a234fbe7b)|![](https://github.com/devjoon/ios-rock-paper-scissors/assets/101351216/93e5c8cc-7f7e-4182-8d8f-bec41ced6d42)|![](https://github.com/devjoon/ios-rock-paper-scissors/assets/101351216/5d19a7c0-a1c5-441c-a0bf-a06451a9fe00)|
 
 
 ## 🔍 트러블 슈팅
