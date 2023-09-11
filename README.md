@@ -3,13 +3,13 @@
 > 이후로 묵찌빠 게임을 진행하여 승리하는 게임입니다.
 
 ## 📚 목차
-1. [팀원](-팀원)
-2. [타임 라인](-타임라인)
-3. [시각화된 프로젝트 구조](-시각화된-프로젝트-구조)
-4. [실행화면](-실행-화면(기능-설명))
-5. [트러블 슈팅](-트러블-슈팅)
-6. [참고 링크](-참고-링크)
-7. [팀 회고](-팀-회고)
+1. [팀원](https://github.com/devjoon/ios-rock-paper-scissors/tree/step2_branch#️-팀원)
+2. [타임 라인](https://github.com/devjoon/ios-rock-paper-scissors/tree/step2_branch#️-타임라인)
+3. [시각화된 프로젝트 구조](https://github.com/devjoon/ios-rock-paper-scissors/tree/step2_branch#-시각화된-프로젝트-구조)
+4. [실행화면](https://github.com/devjoon/ios-rock-paper-scissors/tree/step2_branch#️-실행-화면기능-설명)
+5. [트러블 슈팅](https://github.com/devjoon/ios-rock-paper-scissors/tree/step2_branch#️-실행-화면기능-설명)
+6. [참고 링크](https://github.com/devjoon/ios-rock-paper-scissors/tree/step2_branch#-참고-링크)
+7. [팀 회고](https://github.com/devjoon/ios-rock-paper-scissors/tree/step2_branch#️-팀-회고)
 
 ## 🙋‍♂️ 팀원
 |Kiseok|Morgan|
